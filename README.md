@@ -32,8 +32,13 @@ Selection; Menu Options = 1-2, Exit Program = X:
      ManageAccounts-Win10
 ========================================================================================================================
 
-Enter the username: NewUser
-Enter the password: ********
+    User Accounts:
+UserName1 - Administrator
+UserName2 - Non-Admin
+UserName3 - Administrator
+
+Enter the New Username: NewUser
+Enter the New Password: ********
 Should the user be an Administrator? (Y/N): Y
 User 'NewUser' created successfully.
 User 'NewUser' added to the Administrators group.
