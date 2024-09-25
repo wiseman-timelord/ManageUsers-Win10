@@ -12,16 +12,15 @@ While attempting to add a user, to be able to open up a window, that I can dedic
      ManageAccounts-Win10
 ========================================================================================================================
 
-1. Add an Account
-
-2. Remove an Account
+    1. Add an Account
+    2. Remove an Account
 
 ------------------------------------------------------------------------------------------------------------------------
 
-    Current User Accounts:
-    UserName1 - Administrator
-    UserName2 - Non-Admin
-    UserName3 - Administrator
+    User Accounts:
+UserName1 - Administrator
+UserName2 - Non-Admin
+UserName3 - Administrator
 
 ========================================================================================================================
 Selection; Menu Options = 1-2, Exit Program = X: 
@@ -29,6 +28,9 @@ Selection; Menu Options = 1-2, Exit Program = X:
 ```
 - Simulation
 ```
+========================================================================================================================
+     ManageAccounts-Win10
+========================================================================================================================
 Enter the username: NewUser
 Enter the password: ********
 Should the user be an Administrator? (Y/N): Y
